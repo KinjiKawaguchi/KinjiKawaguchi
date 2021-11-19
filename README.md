@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 <!-- リポジトリステータス -->
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=KinjiKawaguchi&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ユーザ名/)
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=KinjiKawaguchi&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/KinjiKawaguchi/)
 
 <!-- ソースコード統計 -->
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KinjiKawaguchi&layout=compact&theme=tokyonight)](https://github.com/KinjiKawaguchi/)
