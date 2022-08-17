@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KinjiKawaguchi
 - 👀 I am interested in programming education, AI-based education, and AI.
 - 🌱 I am creating programming education software in C# to help students learn C language skills.
-- 📫 How to reach me https://www.twitter.com/SnakeEyeJaga
+- 📫 How to reach me https://www.twitter.com/sheissummer310
 - 🏫 Graduated from Gifu Prefectural Gifu Commercial High School in 2021
 - 🎓 Entered Shizuoka University in 2022
 
