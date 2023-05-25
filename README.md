@@ -11,8 +11,7 @@
 <!-- ソースコード統計 -->
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KinjiKawaguchi&layout=compact&theme=tokyonight)](https://github.com/KinjiKawaguchi/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username={KinjiKawaguchi}&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username={KinjiKawaguchi}&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 KinjiKawaguchi/KinjiKawaguchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
