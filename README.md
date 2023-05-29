@@ -13,6 +13,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KinjiKawaguchi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/274219464881602560?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/274219464881602560)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/274219464881602560)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/274219464881602560)](https://dev.discordprofiles.me/openspotify/274219464881602560)
+
 
 <!---
 KinjiKawaguchi/KinjiKawaguchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
