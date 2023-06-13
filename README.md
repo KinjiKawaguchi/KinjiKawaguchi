@@ -18,7 +18,7 @@
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/KinjiKawaguchi)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/KinjiKawaguchi)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/KinjiKawaguchi)
-[![C#](https://img.shields.io/badge/c_charp-black?style=for-the-badge&logo=c_charp)](https://github.com/KinjiKawaguchi)
+[![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/KinjiKawaguchi)
 [![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)](https://github.com/KinjiKawaguchi)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Kinji)
 
