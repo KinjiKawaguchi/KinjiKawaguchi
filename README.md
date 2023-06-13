@@ -9,7 +9,7 @@
         programming education, informatics education, natural language processing and artificial intelligence <br>
       with a particular interest in these areas.<br>
     </i><br>
-    <a href="https://www.twitter.com/in/KinjiKawaguchi">
+    <a href="https://www.twitter.com/in/sheissummer310">
         <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=Twitter" alt="Twitter">
     </a>
 </p>
