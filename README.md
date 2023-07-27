@@ -54,11 +54,12 @@
   <a href="https://github.com/KinjiKawaguchi">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KinjiKawaguchi&theme=transparent" />
   </a>
-    <!---
-  <a href="https://github.com/KinjiKawaguchi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KinjiKawaguchi&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
---->
+    
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kinjikawaguchi" alt="kinjikawaguchi" /></a> 
+
+<a href="https://twitter.com/sheissummer310" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> 
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kinjikawaguchi&show_icons=true&locale=en&layout=compact" alt="kinjikawaguchi" />
 </p>
 </details>
 
