@@ -35,6 +35,8 @@
 [![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://github.com/KinjiKawaguchi)
 [![WPF](https://img.shields.io/badge/wpf-black?style=for-the-badge&logo=wpf)](https://github.com/KinjiKawaguchi)
 [![.NET](https://img.shields.io/badge/dotnet-black?style=for-the-badge&logo=dotnet)](https://github.com/KinjiKawaguchi)
+[![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=Firebase)](https://github.com/KinjiKawaguchi)
+
 
 
 
