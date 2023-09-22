@@ -42,8 +42,9 @@
 
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/KinjiKawaguchi)
+[![Mac](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=MacOS)](https://github.com/KinjiKawaguchi)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/KinjiKawaguchi)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/KinjiKawaguchi)
 
 
 <details>
