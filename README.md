@@ -14,15 +14,15 @@
     </a>
 </p>
 
-### Languages
-[![Swift](https://img.shields.io/badge/swift-black?style=for-the-badge&logo=swift)](https://github.com/KinjiKawaguchi)
+### Recent Languages
 [![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript)](https://github.com/KinjiKawaguchi)
 [![Go](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=Go)](https://github.com/KinjiKawaguchi)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Kinji)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/KinjiKawaguchi)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/KinjiKawaguchi)
+[![Swift](https://img.shields.io/badge/swift-black?style=for-the-badge&logo=swift)](https://github.com/KinjiKawaguchi)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Kinji)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/KinjiKawaguchi)
 [![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/KinjiKawaguchi)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/KinjiKawaguchi)
 [![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)](https://github.com/KinjiKawaguchi)
 
 ### Technologies & Frameworks
