@@ -1,59 +1,87 @@
-<h1 align="center">Hello GitHub/こんにちはぎっとはぶ👋</h1>
+<h1 align="center">こんにちは かわきんです。</h1>
+<h3 align="center">情報教育に興味があり、プログラミングを教えたり、教育支援の実装をやっています。</h3>
 
-<p align="center">
-    <b>Welcome to my page!</b><br><br>
-    <i>
-        I'm KinjiKawaguchi.<br>
-        Currentry I study computer science at university.<br><br>
-        I study <br>
-        programming education, informatics education, natural language processing and artificial intelligence <br>
-      with a particular interest in these areas.<br>
-    </i><br>
-    <a href="https://www.twitter.com/sheissummer310">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=Twitter" alt="Twitter">
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=kinjikawaguchi&label=Profile%20views&color=0e75b6&style=flat" alt="kinjikawaguchi" />
+</p>
+
+<p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=kinjikawaguchi" alt="kinjikawaguchi" />
     </a>
 </p>
 
-### Recent Languages
-[![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript)](https://github.com/KinjiKawaguchi)
-[![Go](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=Go)](https://github.com/KinjiKawaguchi)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/KinjiKawaguchi)
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/KinjiKawaguchi)
-[![Swift](https://img.shields.io/badge/swift-black?style=for-the-badge&logo=swift)](https://github.com/KinjiKawaguchi)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Kinji)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/KinjiKawaguchi)
-[![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/KinjiKawaguchi)
-[![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)](https://github.com/KinjiKawaguchi)
-
-### Technologies & Frameworks
-[![WPF](https://img.shields.io/badge/wpf-black?style=for-the-badge&logo=wpf)](https://github.com/KinjiKawaguchi)
-[![.NET](https://img.shields.io/badge/dotnet-black?style=for-the-badge&logo=dotnet)](https://github.com/KinjiKawaguchi)
-[![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=Firebase)](https://github.com/KinjiKawaguchi)
-[![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://github.com/KinjiKawaguchi)
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/KinjiKawaguchi)
-
-<details>
-<p align="center">
-  <a href="https://github.com/KinjiKawaguchi">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KinjiKawaguchi&theme=transparent" />
-  </a>
-  <a href="https://github.com/KinjiKawaguchi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KinjiKawaguchi&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/KinjiKawaguchi">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KinjiKawaguchi&theme=transparent" />
-  </a>
-    
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kinjikawaguchi" alt="kinjikawaguchi" /></a> 
-
-<a href="https://twitter.com/sheissummer310" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kinjikawaguchi&show_icons=true&locale=en&layout=compact" alt="kinjikawaguchi" />
+<p align="left">
+    <a href="https://twitter.com/sheissummer310" target="blank">
+        <img src="https://img.shields.io/twitter/follow/sheissummer310?logo=twitter&style=for-the-badge" alt="sheissummer310" />
+    </a>
 </p>
-</details>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://twitter.com/sheissummer310" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sheissummer310" height="30" width="40" />
+    </a>
+</p>
+
+<h3 align="left">プログラミング言語:</h3>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="30"/>
+</p>
+
+<h3 align="left">フレームワーク＆ライブラリ:</h3>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="DotNet" width="40" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="30"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="30"/>
+</p>
+
+<h3 align="left">データベース＆クラウドサービス:</h3>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="30"/>
+</p>
+
+<h3 align="left">その他のツール:</h3>
+<p align="left">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="30"/>
+</p>
+
+<p align="left">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kinjikawaguchi&show_icons=true&locale=en&layout=compact" alt="kinjikawaguchi" />
+</p>
 
 <p align="center">
-  <a href="https://github.com/KinjiKawaguchi">
-    <img src="https://komarev.com/ghpvc/?username=KinjiKawaguchi&color=blue&style=flat)" />
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=kinjikawaguchi&show_icons=true&locale=en" alt="kinjikawaguchi" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kinjikawaguchi&" alt="kinjikawaguchi" />
 </p>
