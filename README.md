@@ -6,12 +6,6 @@
 </p>
 
 <p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=kinjikawaguchi" alt="kinjikawaguchi" />
-    </a>
-</p>
-
-<p align="left">
     <a href="https://twitter.com/sheissummer310" target="blank">
         <img src="https://img.shields.io/twitter/follow/sheissummer310?logo=twitter&style=for-the-badge" alt="sheissummer310" />
     </a>
@@ -40,7 +34,6 @@
 
 <h3 align="left">フレームワーク＆ライブラリ:</h3>
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="30"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="30"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="DotNet" width="40" height="30"/>
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="30"/>
@@ -63,25 +56,29 @@
 
 <h3 align="left">その他のツール:</h3>
 <p align="left">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="30"/>
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="30"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="30"/>
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="30"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="30"/>
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="30"/>
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="30"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="30"/>
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="30"/>
 </p>
 
+<details>
+<p align="left"></p>
 <p align="left">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kinjikawaguchi&show_icons=true&locale=en&layout=compact" alt="kinjikawaguchi" />
 </p>
 
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=kinjikawaguchi&show_icons=true&locale=en" alt="kinjikawaguchi" />
 </p>
 
-<p align="center">
+<p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kinjikawaguchi&" alt="kinjikawaguchi" />
 </p>
+<p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=kinjikawaguchi" alt="kinjikawaguchi" />
+    </a>
+</p>
+</details>
