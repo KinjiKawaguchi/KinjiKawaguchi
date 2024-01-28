@@ -69,9 +69,27 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kinjikawaguchi&show_icons=true&locale=en&layout=compact" alt="kinjikawaguchi" />
 </p>
 
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=kinjikawaguchi&show_icons=true&locale=en" alt="kinjikawaguchi" />
-</p>
+<!-- GRS (Light Mode) -->
+<div align="center"> 
+  <a href="https://github.com/KinjiKawaguchi#gh-light-mode-only">
+    <img
+      src="https://github-readme-stats-steel-omega.vercel.app/api?username=KinjiKawaguchi&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only"
+      alt="My Github stats"
+      height="370"
+    />
+  </a>
+</div>
+
+<!-- GRS (Dark Mode) -->
+<div align="center"> 
+  <a href="https://github.com/KinjiKawaguchi#gh-dark-mode-only">
+    <img
+      src="https://github-readme-stats-steel-omega.vercel.app/api?username=KinjiKawaguchi&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only"
+      alt="My Github stats"
+      height="370"
+    />
+  </a>
+</div>
 
 <p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kinjikawaguchi&" alt="kinjikawaguchi" />
