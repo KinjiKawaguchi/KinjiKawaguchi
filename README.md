@@ -11,13 +11,6 @@
     </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://twitter.com/sheissummer310" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sheissummer310" height="30" width="40" />
-    </a>
-</p>
-
 <h3 align="left">プログラミング言語:</h3>
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="30"/>
