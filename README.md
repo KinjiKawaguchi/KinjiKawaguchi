@@ -1,5 +1,5 @@
 <h1 align="center">こんにちは かわきんです。</h1>
-<h3 align="center">情報教育に興味があり、プログラミングを教えたり、教育支援の実装をやっています。</h3>
+<h3 align="center">プログラミングを教えたり、LLM方面で教育支援の実装をやっています。</h3>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=kinjikawaguchi&label=Profile%20views&color=0e75b6&style=flat" alt="kinjikawaguchi" />
