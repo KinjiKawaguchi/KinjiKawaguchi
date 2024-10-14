@@ -1,4 +1,4 @@
-<h1 align="center">こんにちは かわきん(河口欣仁)です。</h1>
+<h1 align="center">こんにちは かわきんです。</h1>
 <h3 align="center">プログラミングを教えたり、LLM方面で教育支援の実装をやっています。</h3>
 
 <p align="left">
